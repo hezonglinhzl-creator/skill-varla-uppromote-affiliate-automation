@@ -1,0 +1,131 @@
+{
+  "files": 25,
+  "bytes": 237988,
+  "entries": [
+    {
+      "path": ".gitignore",
+      "bytes": 527,
+      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+    },
+    {
+      "path": "apps/shopify-order-bot/.gitignore",
+      "bytes": 127,
+      "sha256": "d3a7ac0d2de52f67ae4d335e4ffc975fb9146c918672d13a4b2731a9c1844e0f"
+    },
+    {
+      "path": "apps/shopify-order-bot/__init__.py",
+      "bytes": 54,
+      "sha256": "cdda2fa904a887e0a18a8ed8c76f05c4223741ef48a8d6ea691ea3bf1c936715"
+    },
+    {
+      "path": "apps/shopify-order-bot/adspower_client.py",
+      "bytes": 6636,
+      "sha256": "7b7e8aadedbe5c1cc89e0aa6627c0dd975ec88a1cf47da5e53291d203bd3859b"
+    },
+    {
+      "path": "apps/shopify-order-bot/config.py",
+      "bytes": 3670,
+      "sha256": "4bddb3f363483fabd12df8fa5463a22f3b734be43ef5d8c6500ed344fcfa3c13"
+    },
+    {
+      "path": "apps/shopify-order-bot/excel_reader.py",
+      "bytes": 15046,
+      "sha256": "4775fa8a66d2531e3a4ddae6226b8aa16787cc0b729f8117f4338536f5c542a5"
+    },
+    {
+      "path": "apps/shopify-order-bot/main.py",
+      "bytes": 9537,
+      "sha256": "da1f918695e5a4b1dc911e858e720e5320e7f760411543dfcbbca2480ea97178"
+    },
+    {
+      "path": "apps/shopify-order-bot/README.md",
+      "bytes": 8187,
+      "sha256": "77e83a70cbc68e8d56177d40d89ecd7b16dfd1e5522744be4beddf34d113d7b4"
+    },
+    {
+      "path": "apps/shopify-order-bot/requirements.txt",
+      "bytes": 80,
+      "sha256": "96809e680d2c50f216d18ef801c411b9a02ce17a4a4081059b2855706ccb4386"
+    },
+    {
+      "path": "apps/shopify-order-bot/shopify_browser.py",
+      "bytes": 74859,
+      "sha256": "0a08d6c9759601671e4ee2ae4bf6ec599dacdfc983aecf14bd3c141497491178"
+    },
+    {
+      "path": "apps/shopify-order-bot/up_promote_affiliate_rpa.py",
+      "bytes": 20711,
+      "sha256": "e0ab98ced727f653f839e5871be403e9525d0dc2f7e154e87d71a242dccf7238"
+    },
+    {
+      "path": "apps/shopify-order-bot/UPPROMOTE_AFFILIATE_RUNBOOK.md",
+      "bytes": 1482,
+      "sha256": "50af474c9fc12825497fadd850940a6a1ea0ee556cf3b0ec6ca6a0be0e625740"
+    },
+    {
+      "path": "install.ps1",
+      "bytes": 646,
+      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1012,
+      "sha256": "83397ac04d6238a70f6cb5466c0ac371ecb9688ea03f3feed37628a0350cd51c"
+    },
+    {
+      "path": "skill/varla-uppromote-affiliate-automation/agents/openai.yaml",
+      "bytes": 260,
+      "sha256": "77d62c82827ef013c92de59fabb9640b4054c70b79f8fbb09cf819c9022d8b1f"
+    },
+    {
+      "path": "skill/varla-uppromote-affiliate-automation/scripts/run_varla_affiliate.py",
+      "bytes": 372,
+      "sha256": "6634af4039f8dfe79645ddb110554fa71dc3e4bc167c2cc6585f7ec5407f792d"
+    },
+    {
+      "path": "skill/varla-uppromote-affiliate-automation/scripts/VarlaAffiliateAutomation/check_environment.bat",
+      "bytes": 318,
+      "sha256": "3604f4fbbb030212b74b62b23ebeac3fec8812b1a31549dddb8b92257fe8a0a7"
+    },
+    {
+      "path": "skill/varla-uppromote-affiliate-automation/scripts/VarlaAffiliateAutomation/check_environment.py",
+      "bytes": 1305,
+      "sha256": "532143b365fbb1a23857ee1dbf625d98f2b3b1d35d32fb53962b2af6fa72f2e7"
+    },
+    {
+      "path": "skill/varla-uppromote-affiliate-automation/scripts/VarlaAffiliateAutomation/README_中文.md",
+      "bytes": 4139,
+      "sha256": "f990370ce7a4c0f40aa6dd16394d483caac0836b77bb517ca216914f0dfe5dc0"
+    },
+    {
+      "path": "skill/varla-uppromote-affiliate-automation/scripts/VarlaAffiliateAutomation/run_varla_affiliate.bat",
+      "bytes": 1155,
+      "sha256": "124d8710f7a0af08a09db3e4e5fed7a2dcc8a645339eb45e91b985cfbba7f640"
+    },
+    {
+      "path": "skill/varla-uppromote-affiliate-automation/scripts/VarlaAffiliateAutomation/uppromote_worker.cjs",
+      "bytes": 45325,
+      "sha256": "314ee424c09db5580c006133ab9bcc19f9a87403109d162fa7707bd5f3194cbc"
+    },
+    {
+      "path": "skill/varla-uppromote-affiliate-automation/scripts/VarlaAffiliateAutomation/varla_affiliate.py",
+      "bytes": 24759,
+      "sha256": "13cf18494ca061fe83bc54140139a5e631787be702fe10e5f6e8e5dce41ade2a"
+    },
+    {
+      "path": "skill/varla-uppromote-affiliate-automation/SKILL.md",
+      "bytes": 17581,
+      "sha256": "43e719f3521895e2f0c3f2ae5a2fdb097d2801a1529494bebb22b04d892f5737"
+    },
+    {
+      "path": "安装Skill.cmd",
+      "bytes": 105,
+      "sha256": "ad77696738bfb2f92f802e0941c18cb906baad9989a604536cfc81a60e176d1a"
+    },
+    {
+      "path": "打开程序文件夹.cmd",
+      "bytes": 95,
+      "sha256": "c4f42f3bec05b83599d984b3c79328e6fc93fb2be392fea35477918acd16759d"
+    }
+  ]
+}
