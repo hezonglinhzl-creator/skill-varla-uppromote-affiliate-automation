@@ -1,11 +1,11 @@
 {
   "files": 30,
-  "bytes": 249101,
+  "bytes": 252390,
   "entries": [
     {
       "path": ".gitignore",
-      "bytes": 527,
-      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+      "bytes": 552,
+      "sha256": "306594764a35cf47b68ddefaf227968de9684a1c465fafa94d821ba4c5162e96"
     },
     {
       "path": "apps/shopify-order-bot/.env.example",
@@ -74,18 +74,18 @@
     },
     {
       "path": "install.ps1",
-      "bytes": 646,
-      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+      "bytes": 2339,
+      "sha256": "d662489ba0c1bf009c714b6030eab322a04042b5d8ff441eeb56bb4549763dd3"
     },
     {
       "path": "README.en.md",
-      "bytes": 4576,
-      "sha256": "64288816c1cf8a61476871db9d21c0a7e5904807306df53c40ee6e12aa15c660"
+      "bytes": 4866,
+      "sha256": "1ae78afea8ffa61dca7aa19ad5e8d9a0f4427b4a7c5ab989c710d7ccf41bd00b"
     },
     {
       "path": "README.md",
-      "bytes": 4381,
-      "sha256": "f0a4a271a93fc8180e098ce94502f58cf561ca1dfe084348283aa4bd132bd2a8"
+      "bytes": 4617,
+      "sha256": "e09dc7dce883ff291de1aadbe3fbbdd47c64821d8ed66dfddccc6d0b2483ad90"
     },
     {
       "path": "skill/varla-uppromote-affiliate-automation/agents/openai.yaml",
@@ -139,8 +139,8 @@
     },
     {
       "path": "skill/varla-uppromote-affiliate-automation/SKILL.md",
-      "bytes": 17579,
-      "sha256": "cd4793ce8c317e0e6f82caa7d8771efe00dd27444d822473c1099d45dc6fa86d"
+      "bytes": 18624,
+      "sha256": "180a57a9eb28a042e04174194a09b66b53370e251481546f3a66fdb7aa57b680"
     },
     {
       "path": "安装Skill.cmd",
